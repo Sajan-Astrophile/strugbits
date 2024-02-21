@@ -63,7 +63,7 @@ This project is a real-time chat application built using Node.js, MongoDB, Mongo
    - Upon successful registration, you will be redirected to the login page.
 
 2. **User Authentication**:
-   - Access the login page at `http://localhost:3000`.
+   - Access the login page at `http://localhost:3000`. in the browser
    - For testing, use "pass1234" for all users.
    - Enter your credentials and submit the form.
    - Upon successful authentication, you will be redirected to the dashboard.
